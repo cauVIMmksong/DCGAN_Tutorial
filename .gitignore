@@ -1,0 +1,7 @@
+__pycache__/*/
+__pycache__/**/*.pyc
+
+data/*/
+
+data/celeba/img_align_celeba/*/
+data/celeba/img_align_celeba/**/*.jpg
